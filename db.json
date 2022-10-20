@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Duck Ramen",
+      "restaurant": "Duck Duck Ramen Restaurant",
+      "image": "https://images.unsplash.com/photo-1618950399138-2167a6bdffb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "rating": 10,
+      "comment": "We don't serve ducks here. Ducks serve you.",
+      "id": 6
     }
   ]
 }
